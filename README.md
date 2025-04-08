@@ -115,8 +115,7 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 
 
 #### Graph:
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/d50a89e2-b850-4c9b-be57-c22a2c4ba5f0" />
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/aec75c0c-0bb8-4872-9cec-0340cb34745d" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/5b746400-8b04-42a5-8d45-2c170054bb31" />
 
 
 ## Result:
