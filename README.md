@@ -3,7 +3,7 @@
 <H3> Experiment 1</H3>
 <H3>DATE:08/04/2025</H3>
 
-# Implementation of Bayesian Networks
+# EX01 Implementation of Bayesian Networks
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
